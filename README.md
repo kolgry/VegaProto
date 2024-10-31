@@ -16,7 +16,9 @@ Como se trata de um projeto simples, a documentação do próprio Android Studio
 
 ## Screenshots
 
-<img src="Screenshots/Screenshot_20241031-160427_VegaProto.jpg" width = 100 height = 200>
+<img src="Screenshots/Screenshot_20241031-160427_VegaProto.jpg" width = 200 height = 300>
+<img src="Screenshots/Screenshot_20241031-160443_VegaProto.jpg" width = 200 height = 300>
+<img src="Screenshots/Screenshot_20241031-160452_VegaProto.jpg" width = 200 height = 300>
 
 ## Color Reference
 
