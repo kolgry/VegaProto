@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="serif"
         android:lineSpacingExtra="8sp"
-        android:text="WELCOME"
+        android:text="WELCOME!"
         android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Display3"
         android:textColor="#EC6B4D"
