@@ -16,9 +16,9 @@ Como se trata de um projeto simples, a documentação do próprio Android Studio
 
 ## Screenshots
 
-![SignIn Screen](<img src="https://github.com/user-attachments/assets/54acd23c-ba3e-4ba4-9c86-65a929ed8612" width="360" height="800"/>)
-![SignUp Screen](<img src="https://github.com/user-attachments/assets/c7fae0d4-7d97-4f5f-a754-f8e3c8cf510d" width="360" height="800"/>)
-![Main Screen](<img src="https://github.com/user-attachments/assets/b04f57c5-7a1e-4648-ba0e-5b4b0ea845f9" width="360" height="800"/>)
+![SignIn Screen](https://github.com/user-attachments/assets/54acd23c-ba3e-4ba4-9c86-65a929ed8612)
+![SignUp Screen](https://github.com/user-attachments/assets/c7fae0d4-7d97-4f5f-a754-f8e3c8cf510d)
+![Main Screen](https://github.com/user-attachments/assets/b04f57c5-7a1e-4648-ba0e-5b4b0ea845f9)
 
 ## Color Reference
 
